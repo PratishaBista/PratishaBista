@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  Hi, I'm <strong>Pratisha Bista</strong>, a third-year Computer Science student from Nepal.<br>
-  <em>These days, I read more code than I write.</em><br>
-  I enjoy learning math through visual art.
+  Hi, I'm Pratisha Bista, a third-year Computer Science student from Nepal.<br>
+  These days, I read more code than I write.<br>
 </p>
 
 ### *Technical Skills*
@@ -35,8 +34,6 @@
 > Shader-based rendering  
 > Recursive pattern generation with `p5.js`, `Canvas API`, `Three.js`, `GLSL`  
 > Ethical AI
-
-Random bits of logic and life, scribbled [here](https://substack.com/@pratishabista).
 
 ### ❝ A reminder I keep close ❞
 > Fast code breaks. Fast learning leaks.  
